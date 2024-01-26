@@ -7,8 +7,7 @@
 <h1>1)Create (add) a new task or adding a new ToDo in the ToDo List App.<br>
 2)See all the tasks or View all the ToDos that were added to the app.<br>
 3)Delete any ToDo from the list of ToDos.<br>
-4)Exit from the app.<br>
-5)Update any ToDo from the list of ToDos.<br>
+4)Update any ToDo from the list of ToDos.<br>
 </h1>
 ------------------------------------------------------------------------------------------------
 

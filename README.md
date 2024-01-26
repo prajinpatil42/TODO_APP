@@ -17,10 +17,10 @@
 <h1>AFTER ADDING LIST</h1>
 
 ![logo](https://github.com/prajinpatil42/ToDo_App/blob/main/Images/2.png)
-<h1>UPDATE</h1>
+<h1>AFTER UPDATE</h1>
 
 ![logo](https://github.com/prajinpatil42/ToDo_App/blob/main/Images/3.png)
-<h1>DELETE</h1>
+<h1>AFTER DELETE</h1>
 
 ![logo](https://github.com/prajinpatil42/ToDo_App/blob/main/Images/4.png)
 <h1>SAVED IN MONGODB</h1>

@@ -1,0 +1,19 @@
+/* Default styles for all screens */
+body {
+    font-family: 'Arial', sans-serif;
+    /* Add any other default styles here */
+  }
+  
+  /* Media query for screens with a maximum width of 767px (typical for mobile devices) */
+  @media only screen and (max-width: 767px) {
+    body {
+      font-size: 16px; /* Adjust the font size for mobile screens */
+      /* Add other styles specific to mobile screens here */
+    }
+  
+    /* Additional styles for elements specific to mobile screens */
+    #root {
+      margin: 10px; /* Adjust margin for mobile screens */
+    }
+  }
+  

@@ -36,7 +36,11 @@
 
 
 
-
+<h1>commands for start project</h1>
+<h1>1)Backend - nodemon server</h1></br>
+<h1>2)frontend - npm start</h1></br>
+<h1>3)create cluster in mongodb </h1></br>
+<h1>4) Type http://localhost:5000/ for get request</h1>
 
 
 
